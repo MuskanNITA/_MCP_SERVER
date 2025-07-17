@@ -16,7 +16,7 @@ This is a **basic Model Context Protocol (MCP) server** built to integrate and e
 
 - ⚙️ **Tool Server Compatibility**
   - Fully MCP-compliant
-  - Works with `langchain`, `jsonschema-pydantic`, and `websockets`
+  
 
 ---
 
